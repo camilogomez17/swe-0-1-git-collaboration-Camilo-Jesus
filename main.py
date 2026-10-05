@@ -8,3 +8,6 @@ print(
 print(
     "Same I wanted to learn python using Free code camp, what will you be using to study?"
 )
+print(
+    "My partner messaged me this over Slack. I said I would use w3schools, which my teacher recommended."
+)
