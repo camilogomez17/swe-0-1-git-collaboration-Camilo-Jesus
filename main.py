@@ -11,3 +11,6 @@ print(
 print(
     "My partner messaged me this over Slack. I said I would use w3schools, which my teacher recommended."
 )
+print(
+    "Wow that's an amazing idea and tool, I heard of w3schools as well. Let me know how it goes. "
+)
