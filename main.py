@@ -17,3 +17,6 @@ print(
 print(
     "Thanks, I am still learning about setting upstream branches and putting repositories inside of other repositories. What do you want to learn in Python?"
 )
+print(
+    "I'm not going to lie me too. What I want to learn in python is how to build real projects and seeing how it works with API's and databases."
+)
