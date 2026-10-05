@@ -1,2 +1,2 @@
 # Code your solutions in this file
-print("one clean push/pull")
+print("Written by: Camilo Gomez and Jesus Martinez")
