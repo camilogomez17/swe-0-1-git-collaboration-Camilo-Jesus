@@ -14,3 +14,6 @@ print(
 print(
     "Wow that's an amazing idea and tool, I heard of w3schools as well. Let me know how it goes. "
 )
+print(
+    "Thanks, I am still learning about setting upstream branches and putting repositories inside of other repositories. What do you want to learn in Python?"
+)
