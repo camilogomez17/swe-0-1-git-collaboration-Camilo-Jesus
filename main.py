@@ -20,3 +20,6 @@ print(
 print(
     "I'm not going to lie me too. What I want to learn in python is how to build real projects and seeing how it works with API's and databases."
 )
+print(
+    "Awesome, I will study Python as well then. I bet it'll be worth it once we know all of this stuff!"
+)
